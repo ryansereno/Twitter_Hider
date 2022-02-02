@@ -1,5 +1,3 @@
-/* We hide everything by default and then conditionally enable them by
-   adding new stylesheets. This prevent a flash of content before it gets hidden. */
 
 [aria-label="Timeline: Your Home Timeline"] {
   visibility: hidden;
@@ -14,5 +12,9 @@
 }
 
 [aria-label="Who to follow"] {
+  visibility: hidden;
+}
+
+[aria-labelledby="accessible-list-1"] {
   visibility: hidden;
 }

@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Twitter Hider",
   "description": "Hide twitter feed, explore, and suggested accounts to follow",
-  "version": "1",
+  "version": "1.0",
   "permissions": ["activeTab", "storage", "https://twitter.com/"],
   "content_scripts": [
     {

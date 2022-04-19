@@ -70,3 +70,9 @@
 [aria-labelledby="accessible-list-14"] {
   visibility: hidden;
 }
+[href="/ry_serene/followers"]{
+    visibility: hidden;
+}
+[aria-label="Notifications"]{
+    visibility: hidden;
+}

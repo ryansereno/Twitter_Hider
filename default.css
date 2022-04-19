@@ -76,3 +76,9 @@
 [aria-label="Notifications"]{
     visibility: hidden;
 }
+[href="/notifications"]{
+    visibility:hidden;
+}
+[href="/ry_serene/following"]{
+    visibility: hidden;
+}

@@ -82,6 +82,18 @@
 [href="/ry_serene/following"]{
     visibility: hidden;
 }
-[role="group"]{
-    visibility: hidden;
+[aria-label*="Reply"]{
+visibility: hidden;
+}
+[aria-label*="Like"]{
+visibility: hidden;
+}
+[aria-label*="replies"]{
+visibility: hidden;
+}
+[aria-label*="Retweets"]{
+visibility: hidden;
+}
+[aria-label*="Retweet"]{
+visibility: hidden;
 }
